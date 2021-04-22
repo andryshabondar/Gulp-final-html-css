@@ -1,0 +1,96 @@
+%imagepage {
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 4px;
+    background-position: center;
+}
+
+%textdiv {
+    height: 160px;
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    flex-direction: column;
+    margin-bottom: 21px;
+}
+
+%stepicon {
+    background-color: #ff4e50;
+    padding: 5px 14px 3px 14px;
+    border-radius: 40px;
+    font-family: "Montserrat-Regular", sans-serif;
+    font-size: 10px;
+    display: flex;
+    align-self: flex-start;
+}
+
+%sedtext {
+    font-family: "Montserrat-Regular", sans-serif;
+    font-size: 24px;
+}
+
+%quitext {
+    font-family: "Roboto-Light", sans-serif;
+    font-size: 14px;
+    color: #e3e3e3;
+    line-height: 14px;
+}
+
+%h2 {
+    font-family: "Montserrat-bold", sans-serif;
+    font-size: 26px;
+    text-align: center;
+    color: #444444;
+    font-style: normal;
+}
+
+%partner {
+    width: 221px;
+    height: 205px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+%partnerimg {
+    height: 120px;
+    width: 120px;
+}
+
+%partnername {
+    font-family: "Montserrat-bold", sans-serif;
+    font-size: 14px;
+    color: #444444;
+}
+
+%partnerabout {
+    font-family: "Roboto-Light", sans-serif;
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+}
+
+%discoverimg {
+    font-family: "Montserrat-bold", sans-serif;
+    font-size: 22px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 4px;
+}
+
+%displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+
